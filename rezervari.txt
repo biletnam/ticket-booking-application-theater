@@ -1,0 +1,4 @@
+false, Stan Andreea, stanandreea187@gmail.com, 1233467876, Descult in parc, 10-02-2018, 14:00, Loc1, 
+false, Rosu Alexandru, andreeastan1997@yahoo.com, 07354544657, Descult in parc, 10-02-2018, 14:00, Loc4, 
+false, Stan Andreea, stanandreea187@gmail.com, 345765567, Descult in parc, 10-02-2018, 14:00, Loc2, 
+false, Andreea, test@gmail.com, 0723543457, Descult in parc, 26-02-2018, 18:00, Loc6, Loc8, 

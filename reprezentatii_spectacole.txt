@@ -1,0 +1,36 @@
+1, Descult in parc, 10-02-2018, 14:00
+2, Descult in parc, 10-02-2018, 18:00
+3, Scaiul, 11-02-2018, 14:00
+4, Scaiul, 12-02-2018, 18:00
+5, Batrana si hotul, 13-02-2018, 14:00
+6, Batrana si hotul, 13-02-2018, 18:00
+7, Descult in parc, 14-02-2018, 14:00
+8, Descult in parc, 14-02-2018, 18:00
+9, Scaiul, 15-02-2018, 14:00
+10, Scaiul, 15-02-2018, 18:00
+11, Batrana si hotul, 16-02-2018, 14:00
+12, Batrana si hotul, 16-02-2018, 18:00
+13, Descult in parc, 17-02-2018, 14:00
+14, Descult in parc, 17-02-2018, 18:00
+15, Scaiul, 18-02-2018, 14:00
+16, Scaiul, 18-02-2018, 18:00
+17, Batrana si hotul, 19-02-2018, 14:00
+18, Batrana si hotul, 19-02-2018, 18:00
+19, Descult in parc, 20-02-2018, 14:00
+20, Descult in parc, 20-02-2018, 18:00
+21, Scaiul, 21-02-2018, 14:00
+22, Scaiul, 21-02-2018, 18:00
+23, Batrana si hotul, 22-02-2018, 14:00
+24, Batrana si hotul, 22-02-2018, 18:00
+25, Descult in parc, 23-02-2018, 14:00
+26, Descult in parc, 23-02-2018, 18:00
+27, Scaiul, 24-02-2018, 14:00
+28, Scaiul, 24-02-2018, 18:00
+29, Batrana si hotul, 25-02-2018, 14:00
+30, Batrana si hotul, 25-02-2018, 18:00
+31, Descult in parc, 26-02-2018, 14:00
+32, Descult in parc, 26-02-2018, 18:00
+33, Scaiul, 27-02-2018, 14:00
+34, Scaiul, 27-02-2018, 18:00
+35, Batrana si hotul, 28-02-2018, 14:00
+36, Batrana si hotul, 28-02-2018, 18:00
